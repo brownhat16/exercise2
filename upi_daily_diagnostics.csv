@@ -1,0 +1,5 @@
+series,lag,autocorrelation
+log_growth_volume,1,-0.3865334843517033
+log_growth_volume,7,0.21698545662365296
+log_growth_value,1,-0.37828790069063367
+log_growth_value,7,0.7032758824075721
